@@ -1,0 +1,2 @@
+# gitops-repo
+GitOps Repository
